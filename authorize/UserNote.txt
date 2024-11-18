@@ -1,0 +1,7 @@
+- go to https://sandbox.authorize.net/ (jimmiauthorize786 / Myauthorize786)
+- use email id jimmi77400@gmail.com (jimmi77400@gmail.com / !password123!)
+-login id:'26d3PfTr2F';  
+-transaction key: 8S2LqJz96c5VJ29P
+-card no: 4007000000027
+
+Note: choose live mode in sandbox then you will get transaction id 
